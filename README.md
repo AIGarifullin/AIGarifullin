@@ -2,18 +2,20 @@
 
 ### Контакты:
 
-<a href="https://t.me/lap_lik"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:lap-lik@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Немного о себе в кодинге: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 - ✅ Успешно прошел курсы профессиональной переподготовки Java Backend Developer от "Сбер Университет".
 - ✅ Успешно прошел курсы профессиональной переподготовки Java Developer в Yandex Practicum.
 - 😄 И, конечно же, предаюсь размышлениям и страданиям над задачками на LeetCode. Как же без них!
-  
+
+Nginx, DNS, HTTPS, Docker, PostgreSQL, GitHub Actions, Pytest, Postman
+
 ### А вот и основной стек знаний:
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/-Django%REST%Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
