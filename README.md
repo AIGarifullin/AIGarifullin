@@ -15,7 +15,7 @@ Nginx, DNS, HTTPS, Docker, PostgreSQL, GitHub Actions, Pytest, Postman
 
 ### А вот и основной стек знаний:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/-Django%REST%Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-blue)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
