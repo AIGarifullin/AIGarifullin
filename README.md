@@ -3,17 +3,15 @@
 ### Контакты:
 
 <a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yandex&logoColor=white"></a>
 
-### Немного о себе в кодинге: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+### Немного о себе в кодинге:
 
 - ✅ Успешно прошел курсы профессиональной переподготовки Java Backend Developer от "Сбер Университет".
 - ✅ Успешно прошел курсы профессиональной переподготовки Java Developer в Yandex Practicum.
 - 😄 И, конечно же, предаюсь размышлениям и страданиям над задачками на LeetCode. Как же без них!
 
-Pytest, Postman
-
-### А вот и основной стек знаний:
+### Основной стек технологий:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/-REST%20API-007EC0?style=for-the-badge)
