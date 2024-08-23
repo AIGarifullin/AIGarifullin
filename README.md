@@ -17,7 +17,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-092E20?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![RestAPI](https://img.shields.io/badge/-REST%20API-007EC0?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black-092E20?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-092E20?style=for-the-badge&logo=JSON%20web%20tokens)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
