@@ -34,7 +34,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007EC0?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-336791?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-336791?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-00599C?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-092E20?style=for-the-badge&logo=markdown&logoColor=white)
 
 <!--
 **AIGarifullin/AIGarifullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
