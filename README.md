@@ -15,7 +15,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![RestAPI](https://img.shields.io/badge/-REST%20API-007EC0?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -27,6 +29,11 @@
 ![Pytest](https://img.shields.io/badge/-Pytest-007EC0?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-007EC0?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)
 
 <!--
 **AIGarifullin/AIGarifullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
