@@ -6,12 +6,12 @@
 <a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- ✅ Успешно прошел курс профессиональной переподготовки "Python-разработчик" в Яндекс Практикум (2023 - 2024)
-- ✅ Успешно прошел курс повышения квалификации "Основы программирования в Python" в НИЯУ "МИФИ" (2022)
-- ✅ Успешно прошел курс профессиональной переподготовки "Введение в программирование (С++)" в Академия Яндекса (2020)
-- ✅ Успешно прошел курс повышения квалификации "Аналитик данных: основы профессии" в Нетология (2020)
-- ✅ Successfully completed Online workshop "Quantum Computing and Programming", QWorld Russia (2020)
-<!-- - 🌱 Мой профиль на [LeetCode](https://leetcode.com/AunLjRk3dt/) -->
+- ✅ Успешно [прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Диплом%20Я.П.%202024.pdf) курс профессиональной переподготовки "Python-разработчик" в Яндекс Практикум (2023 - 2024)
+- ✅ Успешно [прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Удостоверение%20Python%202022.pdf) курс повышения квалификации "Основы программирования в Python" в НИЯУ "МИФИ" (2022)
+- ✅ Успешно [прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Garifullin%20A.I.%20Stepik-certificate-363-e94a311%202020.pdf) курс профессиональной переподготовки "Введение в программирование (С++)" в Академия Яндекса (2020)
+- ✅ Успешно [прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Certificate.%20Data%20analysis.%20Introduction%20to%20the%20profession%202020.pdf) курс повышения квалификации "Аналитик данных: основы профессии" в Нетология (2020)
+- ✅ Successfully [completed](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Garifullin%20A.I.%20Diploma%20QRussia%202020.pdf) Online workshop "Quantum Computing and Programming", QWorld Russia (2020)
+- 🌱 Мой профиль на [LeetCode](https://leetcode.com/AunLjRk3dt/)
 
 ### Основной стек технологий:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
