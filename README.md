@@ -11,7 +11,7 @@
 - ✅ [Прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Удостоверение%20Python%202022.pdf) курс повышения квалификации "Основы программирования в Python" в НИЯУ "МИФИ" (2022)
 - ✅ [Прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Garifullin%20A.I.%20Stepik-certificate-363-e94a311%202020.pdf) курс профессиональной переподготовки "Введение в программирование (С++)" в Академия Яндекса (2020)
 - ✅ [Прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Certificate.%20Data%20analysis.%20Introduction%20to%20the%20profession%202020.pdf) курс повышения квалификации "Аналитик данных: основы профессии" в Нетология (2020)
-- ✅ Successfully [completed](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Garifullin%20A.I.%20Diploma%20QRussia%202020.pdf) Online workshop "Quantum Computing and Programming", QWorld Russia (2020)
+- ✅ [Completed](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Garifullin%20A.I.%20Diploma%20QRussia%202020.pdf) Online workshop "Quantum Computing and Programming", QWorld Russia (2020)
 - 🌱 Мой профиль на [LeetCode](https://leetcode.com/AunLjRk3dt/)
 
 ### Основной стек технологий:
