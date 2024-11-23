@@ -6,6 +6,7 @@
 <a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+- ✅ [Участие](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Диплом%20Хакатон%20Росбанк%202024.pdf) в образовательной конференции Yet another Conference on Education 2024 (13.11.2024)
 - ✅ [Успешное участие](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Диплом%20Хакатон%20Росбанк%202024.pdf) (1 место) в Хакатоне Яндекс.Практикума + Росбанка (4.09.2024 - 23.10.2024)
 - ✅ [Прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Диплом%20Я.П.%202024.pdf) курс профессиональной переподготовки "Python-разработчик" в Яндекс Практикум (2023 - 2024)
 - ✅ [Прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Удостоверение%20Python%202022.pdf) курс повышения квалификации "Основы программирования в Python" в НИЯУ "МИФИ" (2022)
