@@ -43,6 +43,13 @@
 ![LaTeX](https://img.shields.io/badge/latex-336791?style=for-the-badge&logo=latex&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<a href="https://github.com/AIGarifullin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIGarifullin&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AIGarifullin&show_icons=true&theme=ambient_gradient&hide_title=true" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=AIGarifullin)
+
 <!--
 **AIGarifullin/AIGarifullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
