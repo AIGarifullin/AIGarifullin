@@ -1,7 +1,6 @@
 ## Привет! 👋
 
 ### Контакты:
-
 <a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
@@ -15,6 +14,7 @@
 - ✅ [Прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Certificate.%20Data%20analysis.%20Introduction%20to%20the%20profession%202020.pdf) курс повышения квалификации "Аналитик данных: основы профессии" в Нетология (2020)
 - ✅ [Completed](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Garifullin%20A.I.%20Diploma%20QRussia%202020.pdf) Online workshop "Quantum Computing and Programming", QWorld Russia (2020)
 <!-- - 🌱 Мой профиль на [LeetCode](https://leetcode.com/AunLjRk3dt/) -->
+
 
 ### Основной стек технологий:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,6 +43,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-336791?style=for-the-badge&logo=latex&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### Результаты:
 <a href="https://github.com/AIGarifullin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIGarifullin&layout=compact&theme=tokyonight" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AIGarifullin&show_icons=true&theme=ambient_gradient&hide_title=true" />
