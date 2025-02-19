@@ -1,10 +1,5 @@
 ## Привет! 👋
 
-### Контакты:
-<a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-
 - ✅ [Прошел](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Удостоверение%20МИСИС%202024.pdf) курс повышения квалификации "Устройства и методы квантовых оптических коммуникаций" в НИТУ "МИСИС" (2024)
 - ✅ [Участвовал](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Сертификат%20участника%20YACe%202024.pdf) в образовательной конференции Yet another Conference on Education 2024 (13.11.2024)
 - ✅ [Успешное участие](https://github.com/AIGarifullin/AIGarifullin/blob/main/portfolio/Гарифуллин%20А.И.%20Диплом%20Хакатон%20Росбанк%202024.pdf) (1 место) в Хакатоне Яндекс.Практикума + Росбанка (4.09.2024 - 23.10.2024)
@@ -52,6 +47,10 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=AIGarifullin)
+
+### Контакты:
+<a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!--
 **AIGarifullin/AIGarifullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
