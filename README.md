@@ -49,8 +49,8 @@
 ![](https://komarev.com/ghpvc/?username=AIGarifullin)
 
 ### Контакты:
-<a href="https://t.me/AIG3c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:volpatibon@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/aig3pc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="mailto:adel-garifullin@mail.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!--
 **AIGarifullin/AIGarifullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
