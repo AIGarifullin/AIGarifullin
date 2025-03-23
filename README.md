@@ -39,6 +39,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-092E20?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-336791?style=for-the-badge&logo=latex&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MatLab](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/matlab.png)
 
 ### Статисика GitHub:
 <a href="https://github.com/AIGarifullin">
