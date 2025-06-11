@@ -19,6 +19,7 @@
 ![DjangoCKEditor](https://img.shields.io/badge/Django%20CKEditor-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoChannels](https://img.shields.io/badge/Django%20Channels-007EC0?style=for-the-badge&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-092E20?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
