@@ -18,6 +18,7 @@
 ![RestAPI](https://img.shields.io/badge/-REST%20API-007EC0?style=for-the-badge)
 ![DjangoCKEditor](https://img.shields.io/badge/Django%20CKEditor-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoChannels](https://img.shields.io/badge/Django%20Channels-007EC0?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-092E20?style=for-the-badge&logo=JSON%20web%20tokens)
