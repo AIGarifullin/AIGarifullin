@@ -53,7 +53,7 @@
 
 ### Статисика GitHub:
 <a href="https://github.com/AIGarifullin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIGarifullin&layout=compact&theme=tokyonight&&hide=Jupyter%20Notebook" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIGarifullin&layout=compact&theme=tokyonight&&hide=Jupyter%20Notebook" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AIGarifullin&show_icons=true&theme=ambient_gradient&hide_title=true" />
 </a>
 
